@@ -1,7 +1,13 @@
 # Automated-job-search-support
 
-Automated job search support application (emial notification)
+## Aim:
+Automated job search for Junior Python Developer
 
-Just simple and crisp project
+## Functionalities
+Choose city, voivodeship and distance of your work (only in Polish language). Results are listed in console and in (*).csv file 
 
-100% success guaranteed ;)
+## Requirments
+Python 3.5+, bs4, csv, lxml, requests 
+
+## TBD
+Schedule automated work (schedule/ crone) and email directly as newsletter > TBD soon
